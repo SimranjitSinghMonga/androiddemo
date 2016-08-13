@@ -19,6 +19,11 @@ class Program
       }
     }
 }
+public void adddetail()
+{
+//jlfdjsfkljdsfsdflsdjf
+//sdlfjsdlfjsdlfdslkf
+}
 public class O
 {
    public static void main(String[] args)
